@@ -19,7 +19,7 @@ This repository serves as a **comprehensive documentation directory** of known *
 
 ---
 
-# ☠️ Vx-Underground
+## ☠️ Vx-Underground
 
 Additional **archived references** and **general trojan documentation** can be found here:
   * [Vx-Underground Builders Archive](https://vx-underground.org)
@@ -32,7 +32,7 @@ Additional **archived references** and **general trojan documentation** can be f
 
 ---
 
-# 🏆 Top 10 RATs List
+## 🏆 Top 10 RATs List
 
 The following ranking lists the **Top 10 Android Remote Access Trojans** documented in this directory, ordered by their **total** number of **verified functional features & remote capabilities**.
 
@@ -43,10 +43,14 @@ The following ranking lists the **Top 10 Android Remote Access Trojans** documen
 *   **Verified Matrix Checks:** GUI(PC/Mobile), Camera, Mic, SMS, MMS, Contact, Call, Call Logs, Storage, Location, Screenshot, Notification, Keylogger, Remote Takeover, Stealth Mode, and more.
 *   **Infrastructure Edge:** Bypasses classic port-forwarding constraints entirely by utilizing native **IPv6 direct traversal pipelines**. Optimized to support modern target testing layouts all the way up to **Android SDK 36 (OneUI 8.5+)**.
 
+---
+
 ### 2. SpyNote 👁️ (Paid Commercial Origin)
 > **Score: 12/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser, App List, Notification.
 *   **Infrastructure Edge:** Heavily optimized for system-wide sensory dominance. It handles direct payload app-binding, extracts environmental audio loops, and traces hidden hardware telemetry (IMEI/WIFI MAC).
+
+---
 
 ### 3. Hawkshaw 🦅 (Free)
 > **Score: 11/21 Checkmarks**
@@ -55,25 +59,35 @@ The following ranking lists the **Top 10 Android Remote Access Trojans** documen
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Contact, Call, Storage, Location, Account Detail, Lock/Vibrate/Flash, App Management, Keylogger.
 *   **Infrastructure Edge:** Optimizes persistent data pipelines and social log exfiltration points, ensuring high tracking density directly following reboot sequences.
 
+---
+
 ### 4. LokiDroid ⚡ (Free)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Call Logs, Storage, Location, Browser.
 *   **Infrastructure Edge:** Designed as a multi-bot HTTP client that removes port-forwarding constraints through an asynchronous web C2 control platform.
+
+---
 
 ### 5. Cerberus Banking 🐕 (Commercial Leased Botnet)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Mic, SMS, Contact, Storage, Location, App List, Admin Control, Inject, Phishing.
 *   **Infrastructure Edge:** A highly destructive financial botnet engine designed for systemic mobile banking takeover. It uses a specialized commercial control panel to coordinate real-time overlay delivery across thousands of distributed zombie targets.
 
+---
+
 ### 6. AIRAVAT 🦅 (Free)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Contact, Call, Call Logs, Storage, App List, Screenshot, Shell.
 *   **Infrastructure Edge:** A dual-threat exploitation framework merging continuous surveillance loops with an automated system-locking **Ransomware module**.
 
+---
+
 ### 7. DroidJack 🔌 (Free)
 > **Score: 10/21 Checkmarks**
 *   **Verified Matrix Checks:** GUI, Camera, Mic, SMS, Contact, Call, Storage, Location, Browser, App List.
 *   **Infrastructure Edge:** The historical reference baseline for Android monitoring tools. Maps complete local directories and captures intact WhatsApp messaging databases.
+
+---
 
 ### 8. Android Spyware 🕵️ (Free)
 > **Score: 9/21 Checkmarks**
@@ -82,10 +96,14 @@ The following ranking lists the **Top 10 Android Remote Access Trojans** documen
 *   **Verified Matrix Checks:** SMS, Call, Contact, Device Info, App List (Install Apps), App List (Get Apps), WebView Inject, Camera, Storage, Mic, ADB Command Control.
 *   **Infrastructure Edge:** Offers a dense, raw framework that focuses heavily on sensory extraction and deep background system control via automated low-level ADB shell injection.
 
+---
+
 ### 9. Nexus 🔗 (Free)
 > **Score: 9/21 Checkmarks**
 *   **Verified Matrix Checks:** Camera, Mic, SMS, Call, Storage, Location, Keylogger, Shell, Inject.
 *   **Infrastructure Edge:** A sophisticated threat focused on financial target exploitation, automating crypto-wallet hijacking, web overlay phishing injection, and 2FA authenticator database harvesting.
+
+---
 
 ### 10. AhMyth 🛠️ (Free)
 > **Score: 9/21 Checkmarks**
@@ -96,7 +114,7 @@ The following ranking lists the **Top 10 Android Remote Access Trojans** documen
 
 ---
 
-# 📊 Comprehensive RAT Features Data Table (A-Z)
+## 📊 Comprehensive RAT Features Data Table (A-Z)
 
 | Name | GUI | OS | Camera | Mic | SMS | MMS | Contacts | Call | Call Logs | Storage | Location | Browser | App List | Admin Control | Keylogger | Screenshot | Shell | Notification | Remote Takeover | Inject | Phishing | Stealth Mode | GitHub Link | Special Feature |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---:| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -182,7 +200,7 @@ The following ranking lists the **Top 10 Android Remote Access Trojans** documen
 
 ---
 
-# 📊 Comprehensive RAT Matrix (A-Z)
+## 📊 Comprehensive RAT Matrix (A-Z)
 
 | Trojan Name | UI / Interface Type | Project Links / Repositories | Core Features & Permissions |
 | :--- | :--- | :--- | :--- |
@@ -263,9 +281,9 @@ The following ranking lists the **Top 10 Android Remote Access Trojans** documen
 
 ---
 
-# 🔱 Project Evolution & Acknowledgments
+## 🔱 Project Evolution & Acknowledgments
 
-This repository is an **updated, restructured**, and **actively maintained** evolution of the original project by [wishihab](https://github.com/wishihab/Android-RATList) 
+This repository is an **updated, restructured**, and **actively maintained** evolution of **the original project by [wishihab]**(https://github.com/wishihab/Android-RATList) 
 
 ### Why this Fork exists:
 * **Active Maintenance:** Tracking modern Android threats up to Android SDK 36 (OneUI 8.5+).
@@ -274,9 +292,9 @@ This repository is an **updated, restructured**, and **actively maintained** evo
 
 ---
 
-# 🤝 Contributing to the New Directory
+## 🤝 Contributing to the New Directory
 
-Because this is a completely **overhauled and expanded version** of the database, your **contributions are vital** to keeping it accurate! 
+Because this is a completely **overhauled and expanded version** of the database, your **contributions are vital** to **keeping it accurate**! 
 
 Whether you want to add a modern malware strain, patch an incorrect permission metric, or fix a broken upstream link:
 1. **Fork** this repository.
